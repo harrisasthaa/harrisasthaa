@@ -27,6 +27,9 @@ Hi ! I am a Engineering student . I am interested in Web development and softwar
 **SKILLS**
 
 Programming Languages	: c,c++,Java
+
 Development Stacks	  : HTML, CSS, JAVASCRIPT, NODEJS, REACTJS, EXPRESS JS
+
 Databases	            : mongodb, sql
+
 Tools/Platforms	      : Github
