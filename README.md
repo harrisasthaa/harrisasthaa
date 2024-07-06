@@ -23,3 +23,10 @@ Hi ! I am a Engineering student . I am interested in Web development and softwar
 **CONNECT WITH ME**
 
 [Harri sasthaa](https://www.linkedin.com/in/harri-sasthaa-446661243)
+
+**SKILLS**
+
+Programming Languages	: c,c++,Java
+Development Stacks	  : HTML, CSS, JAVASCRIPT, NODEJS, REACTJS, EXPRESS JS
+Databases	            : mongodb, sql
+Tools/Platforms	      : Github
