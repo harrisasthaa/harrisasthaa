@@ -24,7 +24,7 @@ Hi ! I am a Engineering student . I am interested in Web development and softwar
 
 [Harri sasthaa](https://www.linkedin.com/in/harri-sasthaa-446661243)
 
-**SKILLS**
+**SKILLS :**
 
 **Programming Languages**	: c,c++,Java
 
