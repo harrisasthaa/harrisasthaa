@@ -1,17 +1,23 @@
 ## Hi there 👋
 
-<!--
-**harrisasthaa/harrisasthaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hi ! I am a Engineering student . I am interested in Web development and software devlopment
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF341F&background=DE3DFF00&random=false&width=435&lines=Aspiring+Full+Stack+Developer;B.E+CSE+at+PSG+COLLEGE+OF+TECHNOLOGY" alt="Typing SVG" /></a>
+
+🌱 **About Myself**:
+
+✔️ I am Harri Sasthaa G , currently pursuing my bachelors from PSG COLLEGE OF TECHNOLOGY in Computer and Science Engineering.
+
+✔️ learning by doing | Java, C, C++ | Tech Enthusiast
+
+✔️ I am intrested in FULL stack web development .
+
+✔️ Aspiring SDE from India
+
+✔️ I love open source
+
+✔️ 📫 How to reach me harrisasthaa2003@gmail.com
+
+**CONNECT WITH ME**
+Harri sasthaa
